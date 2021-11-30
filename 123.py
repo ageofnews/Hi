@@ -21,3 +21,13 @@ print(e)
 height = input('輸入身高')
 weight = input('輸入體重')
 print('身高:' + height + ',' + '體重:' + weight  )
+
+
+# 上傳
+# echo "# Hi" >> README.md
+# git init
+# git add README.md
+# git commit -m "first commit"
+#(第一次須建立branch_main) git branch -M main
+#(第一次需登入) git remote add origin https://github.com/ageofnews/Hi.git
+# git push -u origin main
